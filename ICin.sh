@@ -1,0 +1,4 @@
+#!/bin/bash
+
+caput SR08ID01ION02:Z 0
+caput SR08ID01SLM03:ZGAP 14.9

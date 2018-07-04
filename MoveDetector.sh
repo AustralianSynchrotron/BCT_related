@@ -1,0 +1,5 @@
+#!/bin/bash
+
+caput SR08ID01TBL32:Y 43
+caput SR08ID01TBL32:Z 68
+caput SR08ID01DST31:Y 881.9975
